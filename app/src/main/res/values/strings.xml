@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess the number</string>
+
+    <string name="zero">0</string>
+    <string name="game_instruction">I guessed a number from 1 to 100. Try to guess it!</string>
+    <string name="player_lifes">You have %s lifes</string>
+    <string name="wrong_variant">You wrong %s is not number what i guess.</string>
+    <string name="game_over">GAME OVER.</string>
+    <string name="user_win_text">GRAZ, YOU WIN</string>
+</resources>
